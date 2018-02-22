@@ -1,0 +1,11 @@
+.flexGroup{
+    flex: 1 1 500px;
+    margin-bottom:20px;
+}
+
+.flexContainer{
+    display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+    margin: 1%;
+}
